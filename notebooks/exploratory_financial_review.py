@@ -1,6 +1,6 @@
 # %% [markdown]
 # # Amazon Music Merch Finance: Exploratory Financial Review
-# **Author:** Financial Analyst (Culver City Hub)  
+# **Author:** Daniel Rodriguez III - Financial Analyst (Seattle, WA)
 # **Objective:** Validate synthetic data profiles, verify relational integrity, 
 # and prototype financial recoupment / margin expansion models.
 
